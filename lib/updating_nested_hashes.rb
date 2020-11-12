@@ -20,7 +20,7 @@ def update_status
       }
    }
 epic_tragedy[:montague][:hero][:status]
-epic_tragedy[:capulet][:heroine][:status]
+puts epic_tragedy[:capulet][:heroine][:status]
 end
 
 def add_characters
